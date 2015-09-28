@@ -1,0 +1,49 @@
+  <rss version="2.0">
+      <channel>
+          <title>Your Favorite NZB Indexer</title>
+          <link xmlns="http://www.w3.org/2005/Atom" href="http://example.com/api?apikey=something&amp;t=search&amp;q=TPB.AFK.2013.360P.H264-20-40" rel="self" type="application/rss+xml"></link>
+          <description>NZB Feed</description>
+          <language>en-gb</language>
+          <image>
+              <url>http://example.com/images/logo.png</url>
+              <title>Example.com</title>
+              <link>http://example.com/</link>
+              <description>Visit Example.com -</description>
+          </image>
+          <response xmlns="http://www.newznab.com/DTD/2010/feeds/attributes/" offset="0" total="2"></response>
+          <item>
+              <title>TPB.AFK.2013.360p.H264-20-40</title>
+              <link>http://example.com/getnzb/5981bcf2d493a2d811012ade8a9e4082.nzb&amp;i=119858</link>
+              <category>
+                  <Domain></Domain>Misc &gt; Other
+              </category>
+              <guid isPermaLink="true">http://example.com/details/5981bcf2d493a2d811012ade8a9e4082</guid>
+              <comments>http://example.com/details/5981bcf2d493a2d811012ade8a9e4082#comments</comments>
+              <description>TPB.AFK.2013.360p.H264-20-40</description>
+              <source url=""></source>
+              <pubDate>Mon, 29 Sep 2014 04:54:05 +0000</pubDate>
+              <enclosure url="http://example.com/getnzb/5981bcf2d493a2d811012ade8a9e4082.nzb&amp;i=119858" length="440771523" type="application/x-nzb"></enclosure>
+              <attr name="category" value="8000"></attr>
+              <attr name="category" value="8010"></attr>
+              <attr name="size" value="440771523"></attr>
+              <attr name="guid" value="5981bcf2d493a2d811012ade8a9e4082"></attr>
+          </item>
+          <item>
+              <title>TPB.AFK.2013.360p.H264-20-40</title>
+              <link>http://example.com/getnzb/e5d6b9a0b7c266d78b5400f3392c88ee.nzb&amp;i=119858</link>
+              <category>
+                  <Domain></Domain>Movies &gt; SD
+              </category>
+              <guid isPermaLink="true">http://example.com/details/e5d6b9a0b7c266d78b5400f3392c88ee</guid>
+              <comments>http://example.com/details/e5d6b9a0b7c266d78b5400f3392c88ee#comments</comments>
+              <description>TPB.AFK.2013.360p.H264-20-40</description>
+              <source url=""></source>
+              <pubDate>Mon, 02 Sep 2013 05:24:22 +0000</pubDate>
+              <enclosure url="http://example.com/getnzb/e5d6b9a0b7c266d78b5400f3392c88ee.nzb&amp;i=119858&amp;r=5ee3268334a951478294d5fd3d7dd83f" length="406779559" type="application/x-nzb"></enclosure>
+              <attr name="category" value="2000"></attr>
+              <attr name="category" value="2030"></attr>
+              <attr name="size" value="406779559"></attr>
+              <attr name="guid" value="e5d6b9a0b7c266d78b5400f3392c88ee"></attr>
+          </item>
+      </channel>
+  </rss>

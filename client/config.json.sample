@@ -1,0 +1,18 @@
+{
+	"Indexers": [
+		{
+			"Name": "nzb.su",
+			"APIKey": "",
+			"URL": "https://api.nzb.su",
+			"Enabled":true
+			"SkipSSLVerification":false
+		},
+			"Name": "oznzb",
+			"APIKey": "",
+			"URL": "https://www.oznzb.com/",
+			"Enabled":true
+			"SkipSSLVerification":false
+		}
+	
+	]
+}
